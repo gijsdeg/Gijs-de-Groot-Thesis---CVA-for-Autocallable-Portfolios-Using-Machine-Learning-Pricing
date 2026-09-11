@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.007890731809886701,
+    "batch_size": 512,
+    "n_layers": 3,
+    "activation": "selu",
+    "dropout": 0.2507300688604043,
+    "units_l0": 445,
+    "units_l1": 438,
+    "units_l2": 432
+}
