@@ -2,7 +2,7 @@
 This repository contains most parts of my thesis code. The main parts are the market simulation, cva framework and machine learning models used for pricing the autocallables. Here is a short descriptions of each file.
 
 CVA
-cva.py - This contains the main cva code that calls a matlab pricing engine through the matlab engine api for python. The matlab code is excluded from this repository so the code will not be executable.
+cva.py - This contains the main cva code that calls a matlab pricing engine through the matlab engine api for python. The matlab code is excluded from this repository so the code will not be executable.\\
 cva.py - Similar to cva.py but it does not call the matlab pricing engine but uses trained machine learning models instead.
 exposure_and_cva_analysis.ipynb. Notebook used to generate output relevant for the thesis.
 marketdata.py - In this file queries and functions are written to retrieve and process market data.
